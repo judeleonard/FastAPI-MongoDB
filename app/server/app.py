@@ -7,4 +7,4 @@ app.include_router(PlayerRouter, tags=["Player"], prefix="/player")
 
 @app.get("/", tags=["Root"])
 async def read_root():
-    return {"message": "Welcome to my players API"}
+    return {"message": "Welcome to my Player API Application"}

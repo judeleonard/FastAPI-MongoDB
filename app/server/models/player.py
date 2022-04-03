@@ -24,7 +24,7 @@ class PlayerSchema(BaseModel):
                 "weight": "148kg",
                 "age": 37,
                 "position": "LW",
-                "height": "132cm",
+                "height": "1.92m",
                 "country": "Portugal",
                 "club": "Manchester United",
     
@@ -49,7 +49,7 @@ class UpdatePlayerModel(BaseModel):
                 "weight": "148kg",
                 "age": 37,
                 "position": "LW",
-                "height": "132cm",
+                "height": "1.92m",
                 "country": "Portugal",
                 "club": "Manchester United",
             
