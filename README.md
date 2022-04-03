@@ -1,2 +1,2 @@
 # FastAPI-MongoDB
-Asynchronous FastAPI integrated with MongoDB that performs CRUD Operations on the database to retrieve players information (Manchester united first 11 players basic info)
+This api was implemented to perform CRUD operations on Manchester United team squad database which I created using NOSQL as in MongoDB to save their basic profile information. However some of the player details may not be accurate as this was implemented just for experimentation. The various api endpoints have been tested and you can find the results in the images in the root directory
